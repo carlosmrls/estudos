@@ -1,0 +1,17 @@
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\bin\Debug\net10.0-windows\estudos.exe
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\bin\Debug\net10.0-windows\estudos.deps.json
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\bin\Debug\net10.0-windows\estudos.runtimeconfig.json
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\bin\Debug\net10.0-windows\estudos.dll
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\bin\Debug\net10.0-windows\estudos.pdb
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.Form1.resources
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.csproj.GenerateResource.cache
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.AssemblyInfoInputs.cache
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.AssemblyInfo.cs
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.dll
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\refint\estudos.dll
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.pdb
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.genruntimeconfig.cache
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\ref\estudos.dll
+C:\Users\Carlos Miguel\Documents\Workspace\estudos\estudosapp\estudos\obj\Debug\net10.0-windows\estudos.csproj.Up2Date
