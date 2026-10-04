@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F623949A-C418-4D04-9534-A129583FB2BF}|ConversorGraus\\ConversorGraus.csproj|c:\\users\\carlos miguel\\documents\\workspace\\estudos\\conversorgraus\\conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F623949A-C418-4D04-9534-A129583FB2BF}|ConversorGraus\\ConversorGraus.csproj|solutionrelative:conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48686906-256A-24FF-0495-AF469F5CA57E}|ConversorGraus\\ConversorGraus.csproj|c:\\users\\carlos miguel\\documents\\workspace\\estudos\\conversorgraus\\conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48686906-256A-24FF-0495-AF469F5CA57E}|ConversorGraus\\ConversorGraus.csproj|solutionrelative:conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F623949A-C418-4D04-9534-A129583FB2BF}|ConversorGraus\\ConversorGraus.csproj|c:\\users\\carlos miguel\\documents\\workspace\\estudos\\conversorgraus\\conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F623949A-C418-4D04-9534-A129583FB2BF}|ConversorGraus\\ConversorGraus.csproj|C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F623949A-C418-4D04-9534-A129583FB2BF}|ConversorGraus\\ConversorGraus.csproj|solutionrelative:conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48686906-256A-24FF-0495-AF469F5CA57E}|ConversorGraus\\ConversorGraus.csproj|c:\\users\\carlos miguel\\documents\\workspace\\estudos\\conversorgraus\\conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48686906-256A-24FF-0495-AF469F5CA57E}|ConversorGraus\\ConversorGraus.csproj|solutionrelative:conversorgraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\ConversorGraus\\Form1.cs",
+              "RelativeDocumentMoniker": "ConversorGraus\\Form1.cs",
+              "ToolTip": "C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\ConversorGraus\\Form1.cs [Design]",
+              "RelativeToolTip": "ConversorGraus\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:49:46.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\ConversorGraus\\Form1.cs",
               "RelativeDocumentMoniker": "ConversorGraus\\Form1.cs",
@@ -46,8 +62,7 @@
               "ToolTip": "C:\\Users\\Carlos Miguel\\Documents\\Workspace\\estudos\\ConversorGraus\\ConversorGraus\\Form1.cs [Design]",
               "RelativeToolTip": "ConversorGraus\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T22:22:22.432Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-20T22:22:22.432Z"
             }
           ]
         }

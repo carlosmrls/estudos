@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            mais = new Button();
+            menos = new Button();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             textBox3 = new TextBox();
@@ -42,15 +42,15 @@
             divisao = new Button();
             SuspendLayout();
             // 
-            // mais
+            // menos
             // 
-            mais.Location = new Point(229, 13);
-            mais.Name = "mais";
-            mais.Size = new Size(75, 23);
-            mais.TabIndex = 0;
-            mais.Text = "menos";
-            mais.UseVisualStyleBackColor = true;
-            mais.Click += mais_Click;
+            menos.Location = new Point(229, 14);
+            menos.Name = "menos";
+            menos.Size = new Size(75, 23);
+            menos.TabIndex = 0;
+            menos.Text = "menos";
+            menos.UseVisualStyleBackColor = true;
+            menos.Click += mais_Click;
             // 
             // textBox1
             // 
@@ -58,6 +58,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 1;
+            textBox1.Text = "3";
             // 
             // textBox2
             // 
@@ -72,6 +73,7 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(100, 23);
             textBox3.TabIndex = 3;
+            textBox3.Text = "2";
             // 
             // textBox4
             // 
@@ -79,6 +81,7 @@
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(100, 23);
             textBox4.TabIndex = 4;
+            textBox4.Text = "2";
             // 
             // button2
             // 
@@ -88,6 +91,7 @@
             button2.TabIndex = 5;
             button2.Text = "mais";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // textBox5
             // 
@@ -111,6 +115,7 @@
             multiplicaçao.TabIndex = 8;
             multiplicaçao.Text = "multiplicaçao";
             multiplicaçao.UseVisualStyleBackColor = true;
+            multiplicaçao.Click += multiplicaçao_Click;
             // 
             // textBox7
             // 
@@ -134,6 +139,7 @@
             divisao.TabIndex = 11;
             divisao.Text = "divisao";
             divisao.UseVisualStyleBackColor = true;
+            divisao.Click += divisao_Click_1;
             // 
             // Form1
             // 
@@ -151,7 +157,7 @@
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(mais);
+            Controls.Add(menos);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -160,7 +166,7 @@
 
         #endregion
 
-        private Button mais;
+        private Button menos;
         private TextBox textBox1;
         private TextBox textBox2;
         private TextBox textBox3;
